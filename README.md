@@ -8,11 +8,11 @@ Plantsy helps you manage your plant inventory by allowing you to add, view, upda
 
 Key Features
 
-Add New Plants: Easily add plants with their name, image, and price.
-Search Plants: Filter plants by name.
-Edit Prices: Update plant prices directly.
-Delete Plants: Remove plants with a click.
-Responsive Layout: Optimized for both desktop and mobile.
+. Add New Plants: Easily add plants with their name, image, and price.
+. Search Plants: Filter plants by name.
+. Edit Prices: Update plant prices directly.
+. Delete Plants: Remove plants with a click.
+. Responsive Layout: Optimized for both desktop and mobile.
 Technologies
 
 React: JavaScript library for the user interface.
